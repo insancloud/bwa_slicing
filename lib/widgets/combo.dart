@@ -82,7 +82,7 @@ class ComboMenu extends StatelessWidget {
                 ],
               ),
               const SizedBox(
-                width: 50,
+                width: 5,
               ),
               Image.asset(
                 'assets/Button Add.png',
